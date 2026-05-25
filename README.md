@@ -46,5 +46,5 @@ Youtube-Video-Downloader/
 
 ## Author
 
-Venkat Sai
-INTERN ID: CITS1589
+- Venkat Sai
+- INTERN ID: CITS1589
